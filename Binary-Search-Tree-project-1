@@ -1,0 +1,5 @@
+root: 7
+L: 5 R: 8
+LL: 1 LR: 6 RR: 9
+LLL: 0 LLR: 3 
+LLRL: 2 LLRR: 4
